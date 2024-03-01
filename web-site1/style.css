@@ -995,50 +995,59 @@ margin-top: 4px;
 /*projects*/
 
 
+
+
+ 
+ 
 .bg2{
+  background-image: url(https://s3-alpha-sig.figma.com/img/c9f1/064b/9b67fc152eb4984e2326ae0578a86662?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XfLAZjll8DoLmnBNN9~o5~hTj3p4JQXwhkeaYedN4D9N3VFyFub~maMstHNyuG0uhynwVMQ1SO~EHISE7J8jY15DohzX0CVrH0W2drHahGnpsX8VMNl8~QKmV6L3lOixiZrJsxbhzF~IiJNnwdMAFuKpXei9g4EBxPRC7MSiy6217agS2OK7yDSbev22Jpitg-vwJ3e5LrHEJ5mlzRMz-cA303FGdd4u8wTiqPbm8NuXOxUqcMV4GbSNYpjDiGld0ykSk~wbomUmCCxsauXiEcqJQHjnd7Tqpfewd7Hul-RwgwaPOwQ5YZ~j3UlrezM7wNheh2KiGLyEyYTsAb6WEg__);
   background-image: url(file:///home/ero/web-site-works3/web-site1/folder-img/Bg.png) ;
   background-repeat: no-repeat;
   background-color: #C6DBFF;
   background-size: contain;
+
   opacity: 10;
 
   width: 1439px;
   height: 869px;
   left: 1px;
 
- 
+
  color: #C6DBFF;
 
+
   
+ 
 }
 
 .text2{
   width: 540px;
   height: 368px;
   padding: 20px;
+  line-height: 48px;
+  text-align: center;
+  color: #486A6F;
+  font-weight: 700;
   margin: auto;
-  color: rgba(103, 140, 146, 1);
 }
 
 .text2 h3{
   width: 500px;
   height: 32px;
   font-size: 16px;
-  line-height: 32px;
-  margin: auto 200px;
-  color:rgba(91, 204, 222, 1) ;
   font-weight: 500;
+  line-height: 32px;
+  text-align: center;
+  color: aqua;
 }
 
 .text2 h2{
   width: 500px;
   height: 96px;
   font-size: 36px;
+  font-weight: 700;
   line-height: 48px;
   text-align: center;
-  color: #486A6F;
-  font-weight: 700;
- 
 }
 
 .text2 p{
@@ -1050,10 +1059,7 @@ margin-top: 4px;
   text-align: center;
   color: rgba(103, 140, 146, 1);
   margin-top: 15px;
-
 }
-
 .header2{
   background: none;
 }
-
