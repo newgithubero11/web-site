@@ -1007,7 +1007,7 @@ margin-top: 4px;
   background-color: #C6DBFF;
   background-size: contain;
 
-  opacity: 10;
+  opacity: 10% inherit;  
 
   width: 1439px;
   height: 869px;
@@ -1039,7 +1039,7 @@ margin-top: 4px;
   font-weight: 500;
   line-height: 32px;
   text-align: center;
-  color: aqua;
+  color: rgba(91, 204, 222, 1);
 }
 
 .text2 h2{
@@ -1049,6 +1049,7 @@ margin-top: 4px;
   font-weight: 700;
   line-height: 48px;
   text-align: center;
+  margin-top: 10px;
 }
 
 .text2 p{
