@@ -1004,10 +1004,11 @@ margin-top: 4px;
   
   background-image: url(file:///home/ero/web-site-works3/web-site1/folder-img/Bg.png) ;
   background-repeat: no-repeat;
-  background-color: #C6DBFF;
+ background-color: #C6DBFF;
+ opacity: 0.9;
+
   background-size: contain;
 
-  opacity: 10% inherit;  
 
   width: 1439px;
   height: 869px;
