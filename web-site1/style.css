@@ -1004,10 +1004,11 @@ margin-top: 4px;
   
   background-image: url(file:///home/ero/web-site-works3/web-site1/folder-img/Bg.png) ;
   background-repeat: no-repeat;
- background-color: #C6DBFF;
- opacity: 0.9;
+ background-color: rgba(198, 219, 255, 1);
+ opacity: 1.11;
 
   background-size: contain;
+  
 
 
   width: 1439px;
@@ -1065,4 +1066,43 @@ margin-top: 4px;
 }
 .header2{
   background: none;
+  
+}
+
+.bg6{
+  width: 1440px;
+  height: 1138px;
+  background: rgba(244, 247, 255, 1);
+
+
+}
+
+
+.projects{
+  width:  (1,020px);
+  height:  (1,860px);
+  top: 947px;
+  left: 208px;
+  gap: 40px;
+  
+}
+
+
+.projects  h2 {
+  width: 507px;
+  height: 48px;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 144px;
+  text-align: center;
+  color: rgba(72, 106, 111, 1);
+   margin-top: 30px;
+   margin: auto 415px;
+}
+
+.Hero2{
+  width:  200px;
+height:  368px;
+gap: 52px;
+
 }
