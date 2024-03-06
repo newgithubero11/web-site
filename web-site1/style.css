@@ -1023,6 +1023,8 @@ margin-top: 4px;
  
 }
 
+
+
 .text2{
   width: 540px;
   height: 368px;
@@ -1106,4 +1108,242 @@ gap: 40px
 height:  368px;
 gap: 52px;
 
+}
+
+.card1{
+  width: 300px;
+  height: 350px;
+  background: linear-gradient(88.65deg, #C6DBFF 0%, #E1EBFA 100%);
+  box-shadow: 0px 30px 60px 0px rgba(59, 130, 246, 0.25);
+
+
+}
+
+
+.text-card1 h3{
+  width: 214px;
+  height: 20px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 22px;
+  color: rgba(72, 106, 111, 1);
+}
+
+.text-card1 h4{
+  width: 260px;
+  height: 20px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 32px;
+  color: rgba(103, 140, 146, 1);
+}
+
+.card2{
+  width: 300px;
+  height: 350px;
+  background: linear-gradient(88.65deg, #C6DBFF 0%, #E1EBFA 100%);
+  box-shadow: 0px 30px 60px 0px rgba(59, 130, 246, 0.25);
+
+}
+
+.text-card2 h3{
+  width: 214px;
+  height: 20px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 22px;
+  color: rgba(72, 106, 111, 1);
+
+
+}
+
+.text-card2 h4{
+  width: 260px;
+  height: 20px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 32px;
+  color: rgba(103, 140, 146, 1);
+}
+
+.card3{
+  width: 300px;
+  height: 350px;
+  background: linear-gradient(88.65deg, #C6DBFF 0%, #E1EBFA 100%);
+  box-shadow: 0px 30px 60px 0px rgba(59, 130, 246, 0.25);
+
+
+}
+
+.text-card3 h3{
+  width: 214px;
+  height: 20px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 22px;
+  color: rgba(72, 106, 111, 1);
+
+}
+
+.text-card3 h4{
+  width: 260px;
+  height: 20px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 32px;
+  color: rgba(103, 140, 146, 1);
+}
+
+.card4{
+  width: 300px;
+  height: 350px;
+  background: linear-gradient(88.65deg, #C6DBFF 0%, #E1EBFA 100%);
+  box-shadow: 0px 30px 60px 0px rgba(59, 130, 246, 0.25);
+
+}
+
+.text-card4 h3{
+  width: 214px;
+  height: 20px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 22px;
+  color: rgba(72, 106, 111, 1);
+
+}
+
+.text-card4 h4 {
+  width: 260px;
+  height: 20px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 32px;
+  color: rgba(103, 140, 146, 1);
+}
+
+.card5{
+  width: 300px;
+  height: 350px;
+  background: linear-gradient(88.65deg, #C6DBFF 0%, #E1EBFA 100%);
+  box-shadow: 0px 30px 60px 0px rgba(59, 130, 246, 0.25);
+
+}
+
+.text-card5 h3{
+  width: 214px;
+  height: 20px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 22px;
+  color: rgba(72, 106, 111, 1);
+}
+
+.text-card5 h4{
+  width: 260px;
+  height: 20px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 32px;
+  color: rgba(103, 140, 146, 1);
+}
+
+.card6{
+  width: 300px;
+  height: 350px;
+  background: linear-gradient(88.65deg, #C6DBFF 0%, #E1EBFA 100%);
+  box-shadow: 0px 30px 60px 0px rgba(59, 130, 246, 0.25);
+}
+
+.text-card6 h3{
+  width: 214px;
+  height: 20px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 22px;
+  color: rgba(72, 106, 111, 1);
+}
+
+.text-card6 h4{
+  width: 260px;
+  height: 20px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 32px;
+  color: rgba(103, 140, 146, 1);
+}
+
+.card7{
+  width: 300px;
+  height: 350px;
+  background: linear-gradient(88.65deg, #C6DBFF 0%, #E1EBFA 100%);
+  box-shadow: 0px 30px 60px 0px rgba(59, 130, 246, 0.25);
+}
+
+.text-card7 h3{
+  width: 214px;
+  height: 20px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 22px;
+  color: rgba(72, 106, 111, 1);
+}
+
+.text-card7 h4{
+  width: 260px;
+  height: 20px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 32px;
+  color: rgba(103, 140, 146, 1);
+}
+
+.card8{
+  width: 300px;
+  height: 350px;
+  background: linear-gradient(88.65deg, #C6DBFF 0%, #E1EBFA 100%);
+  box-shadow: 0px 30px 60px 0px rgba(59, 130, 246, 0.25);
+}
+
+.text-card8 h3{
+  width: 214px;
+  height: 20px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 22px;
+  color: rgba(72, 106, 111, 1);
+}
+
+
+.text-card8 h4{
+  width: 260px;
+  height: 20px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 32px;
+  color: rgba(103, 140, 146, 1);
+}
+
+.card9{
+  width: 300px;
+  height: 350px;
+  background: linear-gradient(88.65deg, #C6DBFF 0%, #E1EBFA 100%);
+  box-shadow: 0px 30px 60px 0px rgba(59, 130, 246, 0.25);
+}
+
+.text-card8 h3{
+  width: 214px;
+  height: 20px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 22px;
+  color: rgba(72, 106, 111, 1);
+}
+
+.text-card8 h4{
+  width: 260px;
+  height: 20px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 32px;
+  color: rgba(103, 140, 146, 1);
 }
