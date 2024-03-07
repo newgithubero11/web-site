@@ -1005,7 +1005,7 @@ margin-top: 4px;
   background-image:  url(file:///home/ero/web-site-works3/web-site1/folder-img/Bg.png);
   background-repeat: no-repeat;
 background-color: #C6DBFF;
- opacity: 1.11;
+ opacity: 0,5;
 
   background-size: contain;
   
@@ -1346,4 +1346,77 @@ gap: 52px;
   font-size: 16px;
   line-height: 32px;
   color: rgba(103, 140, 146, 1);
+}
+
+.card1 img{
+  width: 300px;
+  height: 260px;
+  top: 3px;
+ 
+  
+  
+}
+
+.card2 img{
+  width: 300px;
+  height: 260px;
+  top: 3px;
+ 
+  
+}
+
+.card3 img{
+  width: 300px;
+height: 260px;
+top: 3px;
+
+
+}
+
+.card4 img{
+  width: 300px;
+  height: 260px;
+  top: 3px;
+
+  
+}
+
+.card5 img{
+  width: 300px;
+  height: 260px;
+  top: 3px;
+  
+  
+}
+
+.card6 img{
+  width: 300px;
+  height: 260px;
+  top: 3px;
+  
+  
+}
+
+.card7 img{
+  width: 300px;
+  height: 260px;
+  top: 3px;
+ 
+  
+}
+
+.card8 img{
+  width: 300px;
+  height: 260px;
+  top: 3px;
+ 
+  
+}
+
+.card9 img{
+  width: 300px;
+  height: 260px;
+  top: 3px;
+
+  
 }
