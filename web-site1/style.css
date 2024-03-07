@@ -1110,6 +1110,13 @@ gap: 52px;
 
 }
 
+.cards{
+  width:  (700px);
+height:  (1,772px);
+gap: 40px;
+
+}
+
 .card1{
   width: 300px;
   height: 350px;
@@ -1521,3 +1528,19 @@ gap: 40px;
   margin-left: 10px;
   margin-top: 7px;
 }
+
+
+ .buttons2{
+  width: 600px;
+  height: 750px;
+  margin: auto 600px;
+ }
+
+ .buttons2 .btn1{
+  width: Fixed (208px);
+height:  (52px);
+padding: 15px, 55px, 15px, 55px;
+border-radius: 3px;
+gap: 10px;
+
+ }
