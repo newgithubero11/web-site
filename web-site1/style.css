@@ -1024,6 +1024,25 @@ background-color: #C6DBFF;
 }
 
 
+header button{
+  background: linear-gradient(0deg, #4397A4, #4397A4),
+  linear-gradient(104.26deg, rgba(67, 151, 164, 0.2) 0.88%, rgba(91, 204, 222, 0.2) 99.89%);
+  width:  160px;
+  height:  42px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  margin-right: 143px;
+}
+
+header button h3{
+  font-size: 17px;
+font-weight: 700;
+color: rgba(244, 247, 255, 1);
+line-height: 22px;
+
+}
+
 
 .text2{
   width: 540px;
