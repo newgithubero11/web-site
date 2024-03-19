@@ -1615,3 +1615,16 @@ background-color: rgba(225, 235, 250, 1);
 
  color: #C6DBFF;
 }
+
+
+
+.services{
+  width:  200 px;
+height:  600px;
+top: 1028px;
+left: 121px;
+padding: 20px 0px 0px 0px;
+gap: 60px;
+opacity: 0px;
+
+}
