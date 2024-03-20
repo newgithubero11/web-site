@@ -1619,7 +1619,7 @@ background-color: rgba(225, 235, 250, 1);
 
 
 .services{
-  width:  200px;
+  width:  900px;
   height:  598.96px;
   top: 1028px;
   left: 121px;
@@ -1633,17 +1633,18 @@ background-color: rgba(225, 235, 250, 1);
 
 
 .services2{
-  width: 1200px;
+  width: 1300px;
   height: 558px;
   display: flex;
   justify-content: center;
   align-items:center ;
+  flex-direction: row-reverse;
 
   
 }
 
 .service-container1{
-  width:  202px;
+  width:  1202px;
   height:  558.96px;
   top: 20px;
   left: -1px;
@@ -1656,13 +1657,14 @@ background-color: rgba(225, 235, 250, 1);
 }
 
 
-.service-container1 img{
+   img{
   width: 600px;
-height: 450px;
-margin-left: 
-00px;
-border-radius: 3px;
-margin-left: 200px;
+height: 430px; 
+border-radius: 8px;
+margin-left: 180px;
+margin-top: 400px; 
+
+
 
 
 }
@@ -1685,6 +1687,9 @@ height:  248px;
 gap: 20px;
 opacity: 0px;
 display: flex;
+justify-content: center;
+
+align-items: flex-end;
 
 
 
@@ -1697,8 +1702,11 @@ display: flex;
   font-weight: 500;
   line-height: 32px;
   color: rgba(91, 204, 222, 1);
-   margin-top: 400px;
-   margin-left: 750px;
+  margin-left: 262px;
+  margin-top: 470px;
+  
+   
+  
 
 
 }
@@ -1710,7 +1718,8 @@ display: flex;
   font-weight: 700;
   line-height: 48px;
   color: rgba(72, 106, 111, 1);
-  margin-left: 750px;
+  margin-left: 270px;
+  
 }
 
 
@@ -1722,6 +1731,20 @@ opacity: 0px;
 font-weight: 500;
   font-size: 16px;
   line-height: 32px;
-  margin-left: 750px;
+  margin-left: 270px;
+  
   color: rgba(103, 140, 146, 1);
+  margin-top: 40px;
+}
+
+
+.service2{
+  width:  (800px);
+height:  (816px);
+top: 1895px;
+left: 121px;
+padding: 20px 0px 0px 0px;
+gap: 60px;
+opacity: 0px;
+
 }
