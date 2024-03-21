@@ -1662,7 +1662,7 @@ background-color: rgba(225, 235, 250, 1);
   width: 600px;
 height: 450px; 
 border-radius: 8px;
-margin-right: 30px 30px;
+margin-right:  10px;
 
 margin-top: 400px; 
 
@@ -1720,7 +1720,7 @@ align-items: flex-end;
   height: 48px;
   font-size: 36px;
   font-weight: 700;
-  line-height: 48px;
+  line-height: 68px;
   color: rgba(72, 106, 111, 1);
   margin-left: 161px;
   margin-top: 20px;
