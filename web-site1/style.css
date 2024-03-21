@@ -1644,8 +1644,8 @@ background-color: rgba(225, 235, 250, 1);
 }
 
 .service-container1{
-  width:  1202px;
-  height:  558.96px;
+  width:  700px;
+  height:  958.96px;
   top: 20px;
   left: -1px;
   gap: 100px;
@@ -1657,12 +1657,14 @@ background-color: rgba(225, 235, 250, 1);
 }
 
 
-   img{
+   .img-service{
   width: 600px;
-height: 430px; 
+height: 450px; 
 border-radius: 8px;
-margin-left: 180px;
+margin-left: 100px;
 margin-top: 400px; 
+
+
 
 
 
@@ -1700,9 +1702,9 @@ align-items: flex-end;
   height: 32px;
   font-size: 16px;
   font-weight: 500;
-  line-height: 32px;
+  line-height: 22px;
   color: rgba(91, 204, 222, 1);
-  margin-left: 262px;
+  margin-left: 174px;
   margin-top: 470px;
   
    
@@ -1718,7 +1720,8 @@ align-items: flex-end;
   font-weight: 700;
   line-height: 48px;
   color: rgba(72, 106, 111, 1);
-  margin-left: 270px;
+  margin-left: 161px;
+  margin-top: 20px;
   
 }
 
@@ -1731,7 +1734,8 @@ opacity: 0px;
 font-weight: 500;
   font-size: 16px;
   line-height: 32px;
-  margin-left: 270px;
+  margin-left: 148px;
+  text-align: left;
   
   color: rgba(103, 140, 146, 1);
   margin-top: 40px;
@@ -1740,7 +1744,7 @@ font-weight: 500;
 
 .service2{
   width:  (800px);
-height:  (816px);
+height:  (916px);
 top: 1895px;
 left: 121px;
 padding: 20px 0px 0px 0px;
