@@ -1620,7 +1620,7 @@ background-color: rgba(225, 235, 250, 1);
 
 .services{
   width:  200px;
-  height:  598.96px;
+  height:  722.96px;
   top: 1028px;
   left: 121px;
   padding: 20px 0px 0px 0px;
@@ -1948,10 +1948,10 @@ align-items: flex-start;
   height: 32px;
   font-size: 16px;
   font-weight: 500;
-  line-height: 28px;
+  line-height: 54px;
   color: rgba(91, 204, 222, 1);
   margin-left: 435px;
-  margin-top: 270px;
+  margin-top: 396px;
 
 
 }
@@ -1962,7 +1962,7 @@ align-items: flex-start;
   height: 48px;
   font-size: 36px;
   font-weight: 700;
-  line-height: 68px;
+  line-height: 76px;
   color: rgba(72, 106, 111, 1);
   margin-left: 402px;
   margin-top: 20px;
